@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Syed-Saad-Ali7/Syed-Saad-Ali7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Saad
 
-Here are some ideas to get you started:
+I'm a FinTech undergrad and Co-Founder at Vextria AI, working on AI automation solutions for businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building a personal finance tool in Python.
+
+I'm currently learning deeper Python and data analysis.
+
+Ask me about AI systems, business development, or pitching solutions to enterprise clients!
+
+I'm looking to collaborate on any project involving AI, automation, or fintech tools.
+
+How to reach me: email @ syedsaaaadalii@gmail.com
+
